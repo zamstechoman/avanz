@@ -1,0 +1,1995 @@
+{
+  "project": "Avanzora",
+  "exportedAt": "2026-11-06T08:05:12.637Z",
+  "exportedWith": {
+    "name": "PullPage Asset Export",
+    "url": "https://pull.page"
+  },
+  "summary": {
+    "downloaded": 110,
+    "failed": 1,
+    "skipped": 0,
+    "links": 0,
+    "zipParts": 1,
+    "stoppedEarly": false
+  },
+  "notScanned": [],
+  "notExportable": [
+    "53 vector graphics drawn or pasted in Framer",
+    "Favicon and social image (Site Settings)",
+    "Localized image variants",
+    "Custom fonts you uploaded"
+  ],
+  "assets": [
+    {
+      "file": "images/images.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1690563,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Images"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/atGoqSdUPa2CjJMxsBKjMUpkjE.png",
+      "downloadedFrom": "https://framerusercontent.com/images/atGoqSdUPa2CjJMxsBKjMUpkjE.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/home-image.svg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 144870,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Page / › Image",
+        "Component Pricing-plan card › Image",
+        "Component Footer › Image",
+        "Component Inline-CTA › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/aLUmSXGftNHYBB4zTmruOT7WNw.svg",
+      "downloadedFrom": "https://framerusercontent.com/images/aLUmSXGftNHYBB4zTmruOT7WNw.svg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/dashboard.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 61793,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Dashboard"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Eyjx3jGTYyFNUtd7iknl5JrwKc.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Eyjx3jGTYyFNUtd7iknl5JrwKc.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/screenshot-2026-07-05-at-12-13-08.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 75936,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Screenshot 2026-07-05 at 12.13.08"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/qTsG8ybYAXTExaoJWzRMJoQLM.png",
+      "downloadedFrom": "https://framerusercontent.com/images/qTsG8ybYAXTExaoJWzRMJoQLM.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": null,
+      "type": "video",
+      "source": "Framer",
+      "group": "framer",
+      "status": "failed",
+      "sizeBytes": null,
+      "mimeType": null,
+      "altText": null,
+      "usedIn": [
+        "Page / › Video"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/AND8JgzCKENJO0Qkb2aQ87UGPU.mp4",
+      "downloadedFrom": null,
+      "notes": "Framer didn't respond",
+      "zipPart": null
+    },
+    {
+      "file": "images/progressivesmearcarousel-images.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 550311,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/jDpmwUooOJy1LmHdGZln2oRz7cc.png",
+      "downloadedFrom": "https://framerusercontent.com/images/jDpmwUooOJy1LmHdGZln2oRz7cc.png?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 651080,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/X0bRaprl9us8rXfvbQdYVsEe0Y.png",
+      "downloadedFrom": "https://framerusercontent.com/images/X0bRaprl9us8rXfvbQdYVsEe0Y.png?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 258139,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/lnA9HeOlqqLYT0uaLvvAvFc45tU.png",
+      "downloadedFrom": "https://framerusercontent.com/images/lnA9HeOlqqLYT0uaLvvAvFc45tU.png?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1297449,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/R8Pk1msVmWVvPkr2yxGLSTqWRk.png",
+      "downloadedFrom": "https://framerusercontent.com/images/R8Pk1msVmWVvPkr2yxGLSTqWRk.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 698304,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/WyKZa24Pd1Knc52fPgKIJZf28.png",
+      "downloadedFrom": "https://framerusercontent.com/images/WyKZa24Pd1Knc52fPgKIJZf28.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-6.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 648606,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/lmluhdZB41CCbC8JWFkZKKx3eKw.png",
+      "downloadedFrom": "https://framerusercontent.com/images/lmluhdZB41CCbC8JWFkZKKx3eKw.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-7.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 584374,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/pJEiu4pQaBmxYhQ6dbG5CRHRC8c.png",
+      "downloadedFrom": "https://framerusercontent.com/images/pJEiu4pQaBmxYhQ6dbG5CRHRC8c.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 254653,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/GMgefK8ZAts2BNXD5SMU2N8Q.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/GMgefK8ZAts2BNXD5SMU2N8Q.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-8.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 747423,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/xSs381iab3Ju6Ix11TbSAuyRbo.png",
+      "downloadedFrom": "https://framerusercontent.com/images/xSs381iab3Ju6Ix11TbSAuyRbo.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/progressivesmearcarousel-images-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 390003,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › ProgressiveSmearCarousel"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/MwzTyB1EpBhxMAdMDxC4p2v3Dw.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/MwzTyB1EpBhxMAdMDxC4p2v3Dw.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/services-card-vy29lxghc.webp",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 128100,
+      "mimeType": "image/webp",
+      "altText": null,
+      "usedIn": [
+        "Page / › Services-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/YoXfxhhCr6tkz4qW9k2gBtGLiE.webp",
+      "downloadedFrom": "https://framerusercontent.com/images/YoXfxhhCr6tkz4qW9k2gBtGLiE.webp",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/services-card-wlxfg4mi6.jpeg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 283858,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Services-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/XJDQ3L3Bi9iJZbUStkoGThBnA.jpeg",
+      "downloadedFrom": "https://framerusercontent.com/images/XJDQ3L3Bi9iJZbUStkoGThBnA.jpeg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/services-card-bdovic0vi.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 64583,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page / › Services-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/EtJ8nP4EfYtNlVHz6H4eiQcTZo.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/EtJ8nP4EfYtNlVHz6H4eiQcTZo.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/services-card-klzjikktl.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 145563,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Services-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/S2QOyOk4A16i6x2jsTudO4LAKA.png",
+      "downloadedFrom": "https://framerusercontent.com/images/S2QOyOk4A16i6x2jsTudO4LAKA.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 430741,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/USwUmPXZFDXmQRvZK9WDkxLTvg.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/USwUmPXZFDXmQRvZK9WDkxLTvg.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 831200,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card",
+        "Page /projects › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/WgzpndoXKK14pIKguuAhDSqja0Q.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/WgzpndoXKK14pIKguuAhDSqja0Q.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1186696,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card",
+        "Page /projects › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/QpIr1rSjopcgLDMnNik3wq9ow.png",
+      "downloadedFrom": "Framer image API",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1583327,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card",
+        "Page /projects › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/iZ7gp0BTDTlkL7i4UQJAiSTilLw.png",
+      "downloadedFrom": "Framer image API",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 674808,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card",
+        "Page /projects › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/7M1pudXZ8AiNIvRpoAcCqEqrirE.png",
+      "downloadedFrom": "Framer image API",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/testimonial-card-kdanvbptr-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 760834,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Testimonial-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/tBmPwPeQvzxLHxdACqhBIFi2CQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/tBmPwPeQvzxLHxdACqhBIFi2CQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/social-proof-animation-k0qezm16i.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 3840729,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Social Proof Animation"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/IEkAyD8FxrKesSO05azGbu6cOU.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/IEkAyD8FxrKesSO05azGbu6cOU.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/social-proof-animation-fiu9jyybj.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2617517,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Social Proof Animation"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/fTIxNsAqL5kAuPvnKO17blaBlqc.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/fTIxNsAqL5kAuPvnKO17blaBlqc.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/social-proof-animation-jvnrmhyk0.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 3261917,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Social Proof Animation"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/IjJa1vBDDNzASjXZGBTLcNObHc.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/IjJa1vBDDNzASjXZGBTLcNObHc.jpg?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/social-proof-animation-lgvw7nlgj.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 5139060,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page / › Social Proof Animation"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/b6L3lDYpFTgGEMCn1iAOdSuxsw.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/b6L3lDYpFTgGEMCn1iAOdSuxsw.jpg?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/slideshow-card-tgbe4fgtw.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 164004,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /projects › Slideshow-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/yUQY3E2fszGIQhnMpyQTCa8JDU.png",
+      "downloadedFrom": "https://framerusercontent.com/images/yUQY3E2fszGIQhnMpyQTCa8JDU.png?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/slideshow-card-y0xhcwgjn.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 285691,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /projects › Slideshow-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Zy8i3ZjRODNYgJpBD9O5zaldeUY.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Zy8i3ZjRODNYgJpBD9O5zaldeUY.png?lossless=1",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/slideshow-card-c7hibp7fy.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 520294,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Page /projects › Slideshow-card"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Kbws7BBd5NlJglkDxjvOC0XubDQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Kbws7BBd5NlJglkDxjvOC0XubDQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-oae6nr5ry.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 402409,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /about-us › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/SvarcuDonFHDUg70y2uMGNfd8A.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/SvarcuDonFHDUg70y2uMGNfd8A.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-g3yjx6hkp.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 391334,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /about-us › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/kaJU5oZz6oR4EE7z5H5wHDbTsyU.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/kaJU5oZz6oR4EE7z5H5wHDbTsyU.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-sksnevxgx.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 619856,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /about-us › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Qpnc2oisj4IaxPwuI7hxZJlEqM.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/Qpnc2oisj4IaxPwuI7hxZJlEqM.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-oae6nr5ry-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 120018,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /career › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/alY2eS5nZoNFS6wnGRdXfdkB2EA.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/alY2eS5nZoNFS6wnGRdXfdkB2EA.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-g3yjx6hkp-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 164622,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /career › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/m3OPVh6D22hMbx8YqfaTiiMgg.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/m3OPVh6D22hMbx8YqfaTiiMgg.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/image-banner-team-sksnevxgx-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 131875,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Page /career › Image-banner-team"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/5P4mf0nzLqbzNYVlGq7NJ5pHyM.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/5P4mf0nzLqbzNYVlGq7NJ5pHyM.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/buy-button-image.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 472556,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Button › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/hE4Rcy1DdK8RxRyaBgDRSWM4.png",
+      "downloadedFrom": "https://framerusercontent.com/images/hE4Rcy1DdK8RxRyaBgDRSWM4.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/info-card-image.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 12651,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Component Info-card › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/qhWSww9Y1gdy673n0ecTJQwm3o.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/qhWSww9Y1gdy673n0ecTJQwm3o.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/256px-twitter-verified-badge-svg.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1538,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component Info-card › 256px-Twitter Verified_Badge.svg"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/iJShEKfgnajWDPIPQ0n96kOo2tg.png",
+      "downloadedFrom": "https://framerusercontent.com/images/iJShEKfgnajWDPIPQ0n96kOo2tg.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/info-card-image-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 24620,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Component Info-card › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/YgWKE1peu8NV4WAsVjrjPdhIgPg.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/YgWKE1peu8NV4WAsVjrjPdhIgPg.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/info-card-image-3.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 13188,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "Component Info-card › Image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/hFEw42gn23Ci4cSA2wU6PBgN69E.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/hFEw42gn23Ci4cSA2wU6PBgN69E.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/brand-main-logo-1.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 8527,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component Get template Button › Brand Main Logo 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Fz2lslngBGQAG3yY34cDAoL5c.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Fz2lslngBGQAG3yY34cDAoL5c.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/buy-template-icon.svg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 450,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Template › Icon"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/jLQxFopUYEYEZwYMaSpgC7VMWxU.svg",
+      "downloadedFrom": "https://framerusercontent.com/images/jLQxFopUYEYEZwYMaSpgC7VMWxU.svg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/rocket.svg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 918,
+      "mimeType": "image/svg+xml",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Template › Rocket"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/0LimCBthlqT8WXsGBo8ey5bOP4.svg",
+      "downloadedFrom": "https://framerusercontent.com/images/0LimCBthlqT8WXsGBo8ey5bOP4.svg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/buy-template-frame-2147261328.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 345356,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Template › Frame 2147261328"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/3Xgjja6OaE97tWpxh2K3bTSAFQ4.png",
+      "downloadedFrom": "https://framerusercontent.com/images/3Xgjja6OaE97tWpxh2K3bTSAFQ4.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-banner.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 180584,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Banner"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/xktGFEeTfvx5MDldvQxlaw79M.png",
+      "downloadedFrom": "https://framerusercontent.com/images/xktGFEeTfvx5MDldvQxlaw79M.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-image-1.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 410492,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/MSByi7U1pncatDmUe9uptniRx5Y.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/MSByi7U1pncatDmUe9uptniRx5Y.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-image-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1486679,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/PHfufSQ2pOgDxplBvgwa8uyRuQM.png",
+      "downloadedFrom": "https://framerusercontent.com/images/PHfufSQ2pOgDxplBvgwa8uyRuQM.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-image-3.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 295722,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/uDfSanXGy4SR3Ln93WZFjpAKu8o.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/uDfSanXGy4SR3Ln93WZFjpAKu8o.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-image-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 146130,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/ZfFx6nRRG7sZTHZZQrQxpOEOX4.png",
+      "downloadedFrom": "https://framerusercontent.com/images/ZfFx6nRRG7sZTHZZQrQxpOEOX4.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-redesigning-atlas-image-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 639326,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › redesigning-atlas › Image 5",
+        "CMS Projects › orbital-website-redesign › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/OdeZeQtI3QZIBVqM9KIHxolvGI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/OdeZeQtI3QZIBVqM9KIHxolvGI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-banner.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 628867,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Banner",
+        "CMS Projects › boldbrand-identity-for-studioz › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/1KCYDj61X5Ycm5Vp5kluuhMho.png",
+      "downloadedFrom": "https://framerusercontent.com/images/1KCYDj61X5Ycm5Vp5kluuhMho.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-image-1.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 593113,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/aX4jkVKdyiC1BRZe7CBuXQWAk0.png",
+      "downloadedFrom": "https://framerusercontent.com/images/aX4jkVKdyiC1BRZe7CBuXQWAk0.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-image-2.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 339876,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/820QpcfZAS92JPeginiXpb7EEGM.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/820QpcfZAS92JPeginiXpb7EEGM.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-image-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 962572,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Image 3",
+        "CMS Projects › orbital-website-redesign › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/H5xKUF9Gk83IgOesltLyb2eBQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/H5xKUF9Gk83IgOesltLyb2eBQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-image-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 968875,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/KrIazGEcsgSVWjORbm33i9WZ0Wc.png",
+      "downloadedFrom": "https://framerusercontent.com/images/KrIazGEcsgSVWjORbm33i9WZ0Wc.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-launch-mvp-for-finlytics-image-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 631960,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › launch-mvp-for-finlytics › Image 5",
+        "CMS Projects › boldbrand-identity-for-studioz › Banner"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/bfG3JncRYHwXwGOltj2TpSZFR00.png",
+      "downloadedFrom": "https://framerusercontent.com/images/bfG3JncRYHwXwGOltj2TpSZFR00.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-orbital-website-redesign-banner.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1042201,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › orbital-website-redesign › Banner"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/uqJwE4mTSKeNtBAX8YU8vy1hkVs.png",
+      "downloadedFrom": "https://framerusercontent.com/images/uqJwE4mTSKeNtBAX8YU8vy1hkVs.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-orbital-website-redesign-image-1.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 771327,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › orbital-website-redesign › Image 1",
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Banner"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/46LcaqxrK1UyK9Q7TcQaquA3Ws.png",
+      "downloadedFrom": "https://framerusercontent.com/images/46LcaqxrK1UyK9Q7TcQaquA3Ws.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-orbital-website-redesign-image-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 900095,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › orbital-website-redesign › Image 2",
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/sq9YicyYyZXLfczMh0j3c5Udkno.png",
+      "downloadedFrom": "https://framerusercontent.com/images/sq9YicyYyZXLfczMh0j3c5Udkno.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-orbital-website-redesign-image-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 524306,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › orbital-website-redesign › Image 5",
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Image 5",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "downloadedFrom": "https://framerusercontent.com/images/V9eOSe5bxXnXzlKvjDoN6plC7KU.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-echo-analytics-motion-branding-launch-microsite-ban.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 863383,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Banner",
+        "CMS Projects › boldbrand-identity-for-studioz › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/TwCiV5MUt16Q38ftZYKlEhNhbJI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/TwCiV5MUt16Q38ftZYKlEhNhbJI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-echo-analytics-motion-branding-launch-microsite-ima.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 764149,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/zv7ruzFFl4ovLklbJRgD4hsA90.png",
+      "downloadedFrom": "https://framerusercontent.com/images/zv7ruzFFl4ovLklbJRgD4hsA90.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-echo-analytics-motion-branding-launch-microsite-ima-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1294833,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/9wcIqGhEDONxKi6SZN0cfymHjw.png",
+      "downloadedFrom": "https://framerusercontent.com/images/9wcIqGhEDONxKi6SZN0cfymHjw.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-echo-analytics-motion-branding-launch-microsite-ima-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 944236,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › echo-analytics-motion-branding-launch-microsite › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/nQepqtRunwYBWvGYAu5LSPzUVY.png",
+      "downloadedFrom": "https://framerusercontent.com/images/nQepqtRunwYBWvGYAu5LSPzUVY.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-nova-e-commerce-platform-ui-overhaul-image-1.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 90739,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Image 1",
+        "CMS Projects › boldbrand-identity-for-studioz › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/7sszxwvsgVFKdQ4TIjCb3XbwkI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/7sszxwvsgVFKdQ4TIjCb3XbwkI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-nova-e-commerce-platform-ui-overhaul-image-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 82546,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Image 2",
+        "CMS Projects › boldbrand-identity-for-studioz › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/enzJ2zZNfNvm9JDL4hSaWYvp8I.png",
+      "downloadedFrom": "https://framerusercontent.com/images/enzJ2zZNfNvm9JDL4hSaWYvp8I.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-nova-e-commerce-platform-ui-overhaul-image-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 90884,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Image 3",
+        "CMS Projects › boldbrand-identity-for-studioz › Image 5"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/yy9r8pbfm8gi4PPbTodybPc5Sko.png",
+      "downloadedFrom": "https://framerusercontent.com/images/yy9r8pbfm8gi4PPbTodybPc5Sko.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-nova-e-commerce-platform-ui-overhaul-image-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 229249,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/aha3CphBA85YNFXhG7pu7cNKQzI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/aha3CphBA85YNFXhG7pu7cNKQzI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/projects-nova-e-commerce-platform-ui-overhaul-image-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 170488,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Projects › nova-e-commerce-platform-ui-overhaul › Image 5"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Pg0xxCMY45hypZhRE82L2yrj0I.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Pg0xxCMY45hypZhRE82L2yrj0I.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/team-members-elias-reed-photo.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1085318,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Team members › elias-reed › Photo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/QQ7FtheeCkEf8lbvqK05HPUMzlM.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/QQ7FtheeCkEf8lbvqK05HPUMzlM.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/team-members-maya-koji-photo.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 284028,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Team members › maya-koji › Photo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/XSlrhzX7yFnJehmyCJRcT7ovmI.png",
+      "downloadedFrom": "https://framerusercontent.com/images/XSlrhzX7yFnJehmyCJRcT7ovmI.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/team-members-leo-martinez-photo.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 6383211,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Team members › leo-martínez › Photo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/j47pPNbiydUWOaXI69e3B11UU4.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/j47pPNbiydUWOaXI69e3B11UU4.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/team-members-amina-johnson-photo.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 242896,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Team members › amina-johnson › Photo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/DlfgaXY5uGtGKuaa6gzEKuC6O0o.png",
+      "downloadedFrom": "https://framerusercontent.com/images/DlfgaXY5uGtGKuaa6gzEKuC6O0o.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/team-members-tarek-el-hassan-photo.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 151994,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Team members › tarek-el-hassan › Photo"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Q0D5u7hlXQtuDudTDb5OoVMsNI4.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Q0D5u7hlXQtuDudTDb5OoVMsNI4.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ban.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 392938,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "downloadedFrom": "https://framerusercontent.com/images/fE5Fw05Ngwn3TLUh3p4ajfmjso.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 120305,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 1",
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 7",
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 6",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 7",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 7"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/wx9liyCMJQIHsvhtBBOyIWygBg.png",
+      "downloadedFrom": "https://framerusercontent.com/images/wx9liyCMJQIHsvhtBBOyIWygBg.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 226906,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 2",
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 3",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 1",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/ChqHuPknGOulfCLLxK8NPQxgZ8.png",
+      "downloadedFrom": "https://framerusercontent.com/images/ChqHuPknGOulfCLLxK8NPQxgZ8.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 205053,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 3",
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 5"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/ZDGRqh2r5fdxGmChtMI3dAHz5o.png",
+      "downloadedFrom": "https://framerusercontent.com/images/ZDGRqh2r5fdxGmChtMI3dAHz5o.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima-4.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 275675,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 4",
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 7",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 2",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/83T2iMcbcM3NZsvFwLFQnoAQ6XQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/83T2iMcbcM3NZsvFwLFQnoAQ6XQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima-5.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 427479,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 5",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 3",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/41seF9L0Rw7GevXEXr103I2nHss.png",
+      "downloadedFrom": "https://framerusercontent.com/images/41seF9L0Rw7GevXEXr103I2nHss.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-why-motion-design-is-the-new-differentiator-in-saas-ima-6.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 468429,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › why-motion-design-is-the-new-differentiator-in-saas › Image 6",
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 4",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 4",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 4"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/8nr1vK3FB3KKlp4SvRMDXR4hx0.png",
+      "downloadedFrom": "https://framerusercontent.com/images/8nr1vK3FB3KKlp4SvRMDXR4hx0.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-the-psychology-behind-high-converting-landing-pages-ban.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 1170186,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "downloadedFrom": "https://framerusercontent.com/images/rxmGGcuTESV64kUwoOlyjzwFY7s.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-the-psychology-behind-high-converting-landing-pages-ima.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 167889,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 1"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/TQbIvZMje72p311QU9YEFbxLf3E.png",
+      "downloadedFrom": "https://framerusercontent.com/images/TQbIvZMje72p311QU9YEFbxLf3E.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-the-psychology-behind-high-converting-landing-pages-ima-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 258178,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › the-psychology-behind-high-converting-landing-pages › Image 2"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/dK3dPMZKMjsXU5ahJhxFeyiEXHk.png",
+      "downloadedFrom": "https://framerusercontent.com/images/dK3dPMZKMjsXU5ahJhxFeyiEXHk.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-building-an-mvp-that-doesn-t-suck-6-rules-to-follow-ban.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 344685,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/30H4QgT6gjZSasw0DBCbxLWLY.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-building-an-mvp-that-doesn-t-suck-6-rules-to-follow-ima.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 414488,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 5",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 1",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 1",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 5"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/zOE6nN95U2HsX9eAOc3sdPHU4.png",
+      "downloadedFrom": "https://framerusercontent.com/images/zOE6nN95U2HsX9eAOc3sdPHU4.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-building-an-mvp-that-doesn-t-suck-6-rules-to-follow-ima-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 297762,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 6",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 2",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 2",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 6"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/lxKT78Mioo1ObV6vXtEA7tUMc.png",
+      "downloadedFrom": "https://framerusercontent.com/images/lxKT78Mioo1ObV6vXtEA7tUMc.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-building-an-mvp-that-doesn-t-suck-6-rules-to-follow-ima-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 435065,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow › Image 7",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 4",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 4",
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Image 7"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/XpsOkxS3wNwLq1QAKaYnK9Oao.png",
+      "downloadedFrom": "https://framerusercontent.com/images/XpsOkxS3wNwLq1QAKaYnK9Oao.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-5-modern-marketing-campaigns-that-nailed-storytelling-b.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 2572469,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/iwNXp5FbnVuonnC3boDtFbw8Mk.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-5-modern-marketing-campaigns-that-nailed-storytelling-i.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 425954,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 3",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 3"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Op40L3SSQP2gOVUBXIKsZUh7g1M.png",
+      "downloadedFrom": "https://framerusercontent.com/images/Op40L3SSQP2gOVUBXIKsZUh7g1M.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-5-modern-marketing-campaigns-that-nailed-storytelling-i-2.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 554113,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 5",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 5"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/emJ5kaJJBhmbaLsiBSUkdWU.png",
+      "downloadedFrom": "https://framerusercontent.com/images/emJ5kaJJBhmbaLsiBSUkdWU.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-5-modern-marketing-campaigns-that-nailed-storytelling-i-3.png",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 433658,
+      "mimeType": "image/png",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling › Image 6",
+        "CMS Blog › 5-modern-marketing-campaigns-that-nailed-storytelling-copy › Image 6"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/SWK1cHzdRbsYv0IJvspvOFFCoNQ.png",
+      "downloadedFrom": "https://framerusercontent.com/images/SWK1cHzdRbsYv0IJvspvOFFCoNQ.png",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "images/blog-building-an-mvp-that-doesn-t-suck-6-rules-to-follow-cop.jpg",
+      "type": "image",
+      "source": "Framer",
+      "group": "framer",
+      "status": "downloaded",
+      "sizeBytes": 254116,
+      "mimeType": "image/jpeg",
+      "altText": null,
+      "usedIn": [
+        "CMS Blog › building-an-mvp-that-doesn-t-suck-6-rules-to-follow-copy › Banner image"
+      ],
+      "originalUrl": "https://framerusercontent.com/images/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "downloadedFrom": "https://framerusercontent.com/images/Lgnf3pogO7LW7jfsOpprOYBOI.jpg",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/satoshi-700.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 25328,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Page /",
+        "Page /404",
+        "Component Logo ticker",
+        "Text style H1",
+        "Text style H2",
+        "Text style H3",
+        "Text style H4",
+        "Text style H5",
+        "Text style H6"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/LAFFD4SDUCDVQEXFPDC7C53EQ4ZELWQI/PXCT3G6LO6ICM5I3NTYENYPWJAECAWDD/GHM6WVH6MILNYOOCXHXB5GTSGNTMGXZR.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/knewave-400.woff2",
+      "type": "font",
+      "source": "Google Fonts",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 18372,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Component logo"
+      ],
+      "originalUrl": "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItS-9-trEvlQ.woff2",
+      "downloadedFrom": "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItS-9-trEvlQ.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-500.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111380,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Component Nav Item",
+        "Component Dropdown-item",
+        "Component Footer",
+        "Component Info-card",
+        "Text style Body",
+        "Text style Small",
+        "Text style XSmall",
+        "Text style XXSmall"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/ApCBb3GVWcHF7zo7LgD22hXocgo.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/ApCBb3GVWcHF7zo7LgD22hXocgo.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/switzer-700.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 19432,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Component Logo ticker"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/HBNTRIISA5MEXGL5WPYI7CV2HIWTDV3Q/YDPDINVT673XLXNSTMLG4JNCZZMVVNPN/Y7SCNZJOT2MW5ADSGOFLDGH4TNL4JCQY.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/chillax-700.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 19480,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Component Logo ticker"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/UM553GIXLG5E46TUH763VYPGAQ77BPQ5/NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE/T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/UM553GIXLG5E46TUH763VYPGAQ77BPQ5/NN4EI53RUGC4BO5HP5F46SYQ4WY4U4CE/T2KA2X72VGASVXFVB7QCOIFYVH5GZJTW.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/britti-sans-trial-400.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 12612,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Button",
+        "Component Get template Button"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/681vGw17x6FM2rhfSgxK8lUnlxo.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/681vGw17x6FM2rhfSgxK8lUnlxo.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/britti-sans-trial-600.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 12708,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Template"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/57UiwHmxizMK8eML2ST3LbjSE.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/57UiwHmxizMK8eML2ST3LbjSE.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-600.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111588,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Component Buy Template"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/swkvpkCuf242vgQ1fmul6WFU7vI.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/swkvpkCuf242vgQ1fmul6WFU7vI.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/satoshi-400-italic.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 26456,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Text style H1",
+        "Text style H2",
+        "Text style H3",
+        "Text style H4",
+        "Text style H5",
+        "Text style H6"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/MPIFA4B3XXRNY2MJDGP6GOOOAF6EOCLO/W5E4ZFYPJ3V6JKMBGHB6YMITK6EWS2XA/QOMBWPST76ICDYF6WOBS7SQ7RBT67QW2.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/satoshi-700-italic.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 26300,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Text style H1",
+        "Text style H2",
+        "Text style H3",
+        "Text style H4",
+        "Text style H5",
+        "Text style H6"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/CDEBEFT2R7XKNGXSBBLZGMY4MMHZG75P/HEVKDGQCYDZ7Z6CDVR2ZQGBCTUD6ZARH/BKWEE3VKGTFABE37K2DTH625VUSN2N35.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/satoshi-500.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 25596,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Text style H5",
+        "Text style H6"
+      ],
+      "originalUrl": "https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2",
+      "downloadedFrom": "https://framerusercontent.com/third-party-assets/fontshare/wf/P2LQKHE6KA6ZP4AAGN72KDWMHH6ZH3TA/ZC32TK2P7FPS5GFTL46EU6KQJA24ZYDB/7AHDUZ4A7LFLVFUIFSARGIWCRQJHISQP.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-700.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 111040,
+      "mimeType": "application/octet-stream",
+      "altText": null,
+      "usedIn": [
+        "Text style Body",
+        "Text style Small",
+        "Text style XSmall",
+        "Text style XXSmall"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/ACEaYWisZIYMt1AMEVgshPgBBw.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-500-italic.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 118392,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Body"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/aguECCdqrzklw0uW2SWADvlcI.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/aguECCdqrzklw0uW2SWADvlcI.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-700-italic.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 118392,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Body",
+        "Text style Small",
+        "Text style XSmall",
+        "Text style XXSmall"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/of7m7CkW8MXVSnoJt6P1WHNTKWM.woff2",
+      "notes": null,
+      "zipPart": 1
+    },
+    {
+      "file": "fonts/inter-400-italic.woff2",
+      "type": "font",
+      "source": "Framer",
+      "group": "fonts",
+      "status": "downloaded",
+      "sizeBytes": 114576,
+      "mimeType": "font/woff2",
+      "altText": null,
+      "usedIn": [
+        "Text style Small",
+        "Text style XSmall",
+        "Text style XXSmall"
+      ],
+      "originalUrl": "https://framerusercontent.com/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2",
+      "downloadedFrom": "https://framerusercontent.com/assets/1JbOkuUhXKxkqtEfehWricQJaJQ.woff2",
+      "notes": null,
+      "zipPart": 1
+    }
+  ],
+  "links": []
+}
